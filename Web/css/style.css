@@ -1,0 +1,17 @@
+﻿h1 {
+       color: blue;
+       text-align: center;
+       margin-top: 20px;
+   } 
+   
+   h3 {
+       color: red;
+       text-align: center;
+       font-size: large;
+   }
+   
+   .container {
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+   }
