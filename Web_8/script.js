@@ -1,4 +1,4 @@
-function vytvorTrojuhelnik() {
+function rada() {
     const cislo = document.getElementById("number").value;
     let vystup = "";
     for (let i = 0; i < cislo.length; i++) {
